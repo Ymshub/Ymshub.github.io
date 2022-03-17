@@ -54,21 +54,14 @@ anchorjs: true                          # 修改在default.html->footer
 
 # 评论系统
 # Duoshuo settings
-duoshuo_username: brucezhaor
+#duoshuo_username: brucezhaor
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
-url: "http://brucezhaor.github.io" 
+#duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+#url: "http://brucezhaor.github.io" 
 
 # page Sidebar settings
-sidebar-about-description: "A future technique geek."
-sidebar-avatar: /img/me2.jpg     # img前面加`/`绝对引用。
-
-
-# Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "他无法拒绝生命里的忧伤， <br> 就像他指尖流泻的文字， <br> 总是带着淡淡的忧郁。<br> God is Girl."
-sidebar-avatar: /img/avatar-by.jpg      # use absolute URL, seeing it's used in both `/` and `/about/
-
+sidebar-avatar: /img/me2.jpg     # img前面加`/`绝对引用。
 
 # Friends
 friends: [
