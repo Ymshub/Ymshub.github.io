@@ -30,6 +30,8 @@ permalink: /blog/:year/:month/:day/:title/
 header-img: /img/default-bg.jpg
 
 RSS: feed.xml
+categories_path: categories
+tags_path: tags
 archive_path: archives
 about_path: about
 
