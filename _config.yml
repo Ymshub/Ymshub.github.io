@@ -2,8 +2,8 @@
 title: Yms
 SEOTitle: Ymshow
 author: Yms
-#timezone: Asia
-paginate: 10 # pagination based on number of posts
+timezone: Asia
+paginate: 1 # pagination based on number of posts
 paginate_path: "page:num"
 highlighter: rouge
 markdown: kramdown
@@ -44,17 +44,17 @@ twitter_username:   Ymshuo
 #google_username:  101167914127123982138/posts
 RSS: feed.xml
 email: i@YangMingSong.com
-#linkedin: Ymshow
+linkedin: Ymshow
 
 anchorjs: true                          # 修改在default.html->footer
 
 
 # 评论系统
 # Duoshuo settings
-#duoshuo_username: brucezhaor
+#duoshuo_username: Ymshow
 # Share component is depend on Comment so we can NOT use share only.
 #duoshuo_share: true                     # set to false if you want to use Comment without Sharing
-#url: "http://brucezhaor.github.io" 
+#url: "http://github.com/Ymshow" 
 
 # page Sidebar settings
 sidebar-about-description: "他无法拒绝生命里的忧伤， <br> 就像他指尖流泻的文字， <br> 总是带着淡淡的忧郁。<br> God is Girl."
