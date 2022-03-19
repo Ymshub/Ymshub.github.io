@@ -2,7 +2,7 @@
 title: Yms
 SEOTitle: Ymshow
 author: Yms
-#timezone: Asia/Shanghai
+#timezone: Asia
 paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
 highlighter: rouge
@@ -14,9 +14,6 @@ gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
-
-# 国内用多说
-# disqus: brucezhaor
 
 #Google Analytics https://developers.google.com/analytics/devguides/collection/analyticsjs/
 #去_layout/default.html的头文件中去设置.
@@ -47,7 +44,7 @@ twitter_username:   Ymshuo
 #google_username:  101167914127123982138/posts
 RSS: feed.xml
 email: i@YangMingSong.com
-#linkedin: brucezhaor
+#linkedin: Ymshow
 
 anchorjs: true                          # 修改在default.html->footer
 
@@ -78,12 +75,12 @@ friends: [
         title: "Hux",
         href: "http://huangxuan.me/"
     },{
-        title: "Burce Zhao",
+        title: "Bruce Zhao",
         href: "http://github.com/BruceZhaoR"
-	},{
+    },{
         title: "MAICOO",
         href: "http://github.com/blankmagic"
-	}
+    }
 ]
 
 
