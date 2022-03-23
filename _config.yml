@@ -3,7 +3,7 @@ title: Yms
 SEOTitle: Ymshow
 author: Yms
 timezone: Asia
-paginate: 3 # pagination based on number of posts
+paginate: 4 # pagination based on number of posts
 paginate_path: "page:num"
 highlighter: rouge
 markdown: kramdown
