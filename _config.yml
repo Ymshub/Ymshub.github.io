@@ -28,7 +28,7 @@ header-img: /img/default-bg.jpg
 
 RSS: feed.xml
 categories_path: categories
-tags_path: tags
+tags_path: 标签
 archive_path: archives
 about_path: about
 
@@ -37,7 +37,7 @@ BASE_PATH:
 
 # SNS settings
 
-weibo_username:     5620697453
+weibo_username:     2062305357
 #facebook_username:     
 github_username:    Ymshub
 twitter_username:   Ymshuo
@@ -82,6 +82,3 @@ friends: [
         href: "http://github.com/blankmagic"
     }
 ]
-
-
-
